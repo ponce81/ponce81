@@ -1,0 +1,34 @@
+# Things to learn
+
+#AWS
+- Foundations - Cloud Practiciones Practitioner (Done)
+- Solution Architect Associate (On-going)
+- Certified Developer (on-going)
+
+#Azure
+- Foundations
+- Solution Architect
+
+#GCP
+- Foundations
+- Analytics on Google
+
+#Security
+CCSP – Certified Cloud Security Professional 
+
+#Programming Languages
+- Python (On-going)
+- Go (On-going)
+- C#
+
+#Cloud Development general
+- Terraform (on-going)
+- Git (On-going)
+- DevOps (Mindset, Tools, Processes)
+- CI/CD
+- Jenkins
+
+#Tools
+- Shell / bash programming
+- Power Shell
+
