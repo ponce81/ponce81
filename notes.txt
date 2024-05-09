@@ -31,4 +31,5 @@ CCSP – Certified Cloud Security Professional
 #Tools
 - Shell / bash programming
 - Power Shell
-
+- Docker
+- Kubernetes 8-¦
